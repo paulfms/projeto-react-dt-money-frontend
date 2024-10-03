@@ -1,0 +1,52 @@
+{
+  "transactions": [
+    {
+      "id": 1,
+      "description": "Desenvolvimento de site",
+      "type": "income",
+      "category": "Venda",
+      "price": 14000,
+      "createdAt": "2024-09-30T20:31:39.341Z"
+    },
+    {
+      "id": 2,
+      "description": "Hamburguer",
+      "type": "outcome",
+      "category": "Alimentação",
+      "price": 60,
+      "createdAt": "2024-09-30T19:31:39.341Z"
+    },
+    {
+      "id": 3,
+      "description": "MBA FullStack",
+      "type": "outcome",
+      "category": "Educação",
+      "price": 6000,
+      "createdAt": "2024-10-01T14:14:45.341Z"
+    },
+    {
+      "description": "Desenvolvimento de app",
+      "price": 10000,
+      "category": "Venda",
+      "type": "income",
+      "createdAt": "2024-10-02T23:21:13.449Z",
+      "id": 4
+    },
+    {
+      "description": "Pizza",
+      "price": 80,
+      "category": "Alimentação",
+      "type": "outcome",
+      "createdAt": "2024-10-02T23:42:16.292Z",
+      "id": 5
+    },
+    {
+      "description": "Marketing Digital",
+      "price": 2500,
+      "category": "Venda",
+      "type": "income",
+      "createdAt": "2024-10-03T00:33:02.535Z",
+      "id": 6
+    }
+  ]
+}
